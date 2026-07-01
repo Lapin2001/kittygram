@@ -1,0 +1,5 @@
+IP: 158.160.230.47;
+name_taski: https://nasty2000.serveirc.com;
+name_kittygram: https://kittygram.ddns.net;
+login: Lapin1;
+password: Lapin2001;
